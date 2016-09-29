@@ -1,0 +1,49 @@
+// COLOR VARIABLES
+
+
+// FUNCTION COLOR VARIABLES
+// $color-prim: ;
+// $color-sec: ;
+//
+// $color-text-light: ;
+// $color-text-base: ;
+// $color-text-dark: ;
+//
+// $color-border-light: ;
+// $color-border-dark : ;
+//
+// $color-link-default: ;
+// $color-link-visited: ;
+
+$color-shadow: rgba(#000, 0.8);
+// $color-body: ;
+
+// FONT STACKS
+$stack-sans-serif: helvetica, arial, sans-serif ;
+$stack-helvetica:  "Helvetica Neue", $stack-sans-serif;
+
+// WEB FONTS
+@font-face {
+  font-family: "";
+  src: url("../fonts/Regular/[FONT NAME].eot");
+  src: url("../fonts/Regular/[FONT NAME].eot?#iefix") format("embedded-opentype"), url("../fonts/Regular/[FONT NAME].woff") format("woff");
+}
+@font-face {
+  font-family: "";
+  src: url("../fonts/Bold/[FONT NAME].eot");
+  src: url("../fonts/Bold/[FONT NAME].eot?#iefix") format("embedded-opentype"), url("../fonts/Bold/[FONT NAME].woff") format("woff");
+}
+@font-face {
+  font-family: "";
+  src: url("../fonts/Light/[FONT NAME].eot");
+  src: url("../fonts/Light/[FONT NAME].eot?#iefix") format("embedded-opentype"), url("../fonts/Light/[FONT NAME].woff") format("woff");
+}
+
+$font: "";
+$font-bold: "";
+$font-light: "";
+
+
+
+// BORDER RADIUS
+$br: 10px;

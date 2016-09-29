@@ -1,0 +1,33 @@
+* { box-sizing: border-box; }
+
+html { -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+
+body { margin: 0; font: 16px/1 sans-serif; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; }
+
+html, body { min-height: 100%; height: 100%; }
+
+h1, h2, h3, h4, p, blockquote, figure, ol, ul { margin: 0; padding: 0; }
+
+main, li { display: block; }
+
+h1, h2, h3, h4 { font-size: inherit; }
+
+strong { font-weight: bold; }
+
+a, button { color: inherit; -webkit-transition: .3s; transition: .3s; }
+
+a { text-decoration: none; }
+
+button { overflow: visible; border: 0; font: inherit; -webkit-font-smoothing: inherit; letter-spacing: inherit; background: none; cursor: pointer; }
+
+::-moz-focus-inner { padding: 0; border: 0; }
+
+:focus { outline: 0; }
+
+img { max-width: 100%; height: auto; border: 0; }
+
+@font-face { font-family: "FS Albert Web Regular"; src: url("../fonts/Regular/FSAlbertWeb-Regular.eot"); src: url("../fonts/Regular/FSAlbertWeb-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Regular/FSAlbertWeb-Regular.woff") format("woff"); }
+@font-face { font-family: "FS Albert Web Bold"; src: url("../fonts/Bold/FSAlbertWeb-Bold.eot"); src: url("../fonts/Bold/FSAlbertWeb-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Bold/FSAlbertWeb-Bold.woff") format("woff"); }
+@font-face { font-family: "FS Albert Web Light"; src: url("../fonts/Light/FSAlbertWeb-Light.eot"); src: url("../fonts/Light/FSAlbertWeb-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Light/FSAlbertWeb-Light.woff") format("woff"); }
+
+/*# sourceMappingURL=mytheme.css.map */
